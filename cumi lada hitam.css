@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(229, 247, 252);
+}
+
+h1 {
+    color: rgb(2, 57, 129);
+    font-family: 'Times New Roman', Times, serif
+}
+
+h2 {
+    color: rgb(2, 57, 129);
+    font-family: 'Times New Roman', Times, serif
+}
+
+h3 {
+    color: rgb(0, 102, 153);
+    font-family: 'Times New Roman', Times, serif
+}
+
+hr{
+    border: 1px solid rgb(41, 128, 185);
+}
+
+footer {
+    color: rgba(73, 105, 105, 0.75);
+    padding: 40px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif
+}
+
+img {
+    border: 2px solid rgb(41, 128, 185);
+    border-radius: 10px;
+}
+
+a {
+    color: rgb(2, 57, 129);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    color: hsla(0, 0%, 0%, 0.507);
+}
+
+h4 {
+    color: rgb(2, 57, 129);
+    font-family: 'Times New Roman', Times, serif
+}
